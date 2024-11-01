@@ -16,7 +16,7 @@ multidict==2.1.6
 numpy==1.22.0
 olefile==0.44
 Pillow==10.3.0
-PyMySQL==0.7.11
+PyMySQL==1.1.1
 pyparsing==2.2.0
 pyreadline==2.1
 PySocks==1.6.7
